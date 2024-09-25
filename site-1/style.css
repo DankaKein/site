@@ -1,3 +1,12 @@
-.button section .button{
-background-color: coral;
+button{
+padding: 10px;
+color: beige;
+display: inline-block;
+background-color: orangered;
+border-radius: 4px;
+border:orangered ;
+}
+
+button :active {
+background-color: orangered;
 }
